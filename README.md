@@ -70,7 +70,7 @@ This tool uses Discord's debug mode to inject JavaScript code. While it mimics n
 
 3.  **Запустите:**
     ```bash
-    python main.py
+    python Discord-Quest-Automator.py
     ```
 
 ### ⚠️ Предупреждение
